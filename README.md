@@ -1,0 +1,3 @@
+# belajar-git
+Ini coba-coba aja, cuma buat belajar
+Sifatya bebas mau didisi apa aja hehe...
